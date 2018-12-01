@@ -7,8 +7,7 @@ Come to the dark side, we have 🍪! XAML styling files for Adobe Xd dark mode f
   1. Copy General.xaml
   2. Follow this directory path `C:\Program Files\WindowsApps\Adobe.CC.XD_Random.Version.Number_X64__randomuuid\Themes\General.xaml`
   *2. If Win 10 gets testy, or if files are hidden:
-  
-  --1. [Follow this link to enable modifications to WindowsApps directory](https://www.maketecheasier.com/access-windowsapps-folder-windows-10/) 
+    -[Follow this link to enable modifications to WindowsApps directory](https://www.maketecheasier.com/access-windowsapps-folder-windows-10/) 
   3. Paste & Overwrite original 
   4. Close Adobe
   5. Restart Adobe

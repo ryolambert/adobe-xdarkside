@@ -1,5 +1,4 @@
-# ![alt text](https://cdn.mos.cms.futurecdn.net/urKsF9FdRcYUpJa7HZ8FJm-320-80.jpg)
-adobe-xdarkside ![alt text](https://www.shareicon.net/data/2016/11/21/854776_darth_512x512.png)
+# ![alt text](https://cdn.mos.cms.futurecdn.net/urKsF9FdRcYUpJa7HZ8FJm-320-80.jpg)adobe-xdarkside![alt text](https://emojis.slackmojis.com/emojis/images/1530281184/4178/vader.png?1530281184)
 ---
 Come to the dark side, we have 🍪! XAML styling files for Adobe Xd dark mode for Win 10 UWP app. 
 
